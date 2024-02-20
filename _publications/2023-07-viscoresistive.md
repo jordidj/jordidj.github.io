@@ -2,6 +2,7 @@
 title: "Tearing growth rate of a viscoresistive Harris sheet subject to flow"
 collection: publications
 permalink: /publication/2023-07-06
+excerpt: ""
 date: 2023-07-06
 venue: '49th EPS Conference on Plasma Physics'
 paperurl: 'http://jordidj.github.io/files/eps2023.pdf'

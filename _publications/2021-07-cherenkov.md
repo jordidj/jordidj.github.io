@@ -2,6 +2,7 @@
 title: "Laser-induced Cherenkov radiation in a warm two-fluid model"
 collection: publications
 permalink: /publication/2021-07-cherenkov
+excerpt: ""
 date: 2021-04-15
 venue: '47th EPS Conference on Plasma Physics'
 paperurl: 'http://ocs.ciemat.es/EPS2021PAP/pdf/P5.4009.pdf'
