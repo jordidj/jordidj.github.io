@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Work experience
+## Employment
 * October 2023 - March 2025: Research fellow
   * Solar and Magnetospheric Theory Group, University of St Andrews (UK)
   * Topic: magnetic reconnection
@@ -41,7 +41,7 @@ redirect_from:
 * Programming languages: Python, Fortran, Bash, R, Mathematica, MatLab
 * Soft skills: science communication
 
-## Publications
+<!-- ## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -54,7 +54,7 @@ redirect_from:
 ## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 ## Volunteer experience
 * Internship at [RiskConcile](https://www.riskconcile.com)
