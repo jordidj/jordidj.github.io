@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Welcome to my personal page!"
+title: "Overview"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This website is still under construction, so please check back later for more information. For now, feel free to have a look at my lists of publications and talks, or check out my other media by following the links in the sidebar.
+__Note.__ This website is still under construction, so please check back later for more information.
+{: .notice}
 
 ---
-_Last updated: 19 February 2024_
+_This website was last updated on 20 February 2024._
