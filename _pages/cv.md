@@ -9,56 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Work experience
+* October 2023 - March 2025: Research fellow
+  * Solar and Magnetospheric Theory Group, University of St Andrews (UK)
+  * Topic: magnetic reconnection
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
+* Doctoral Programme in Science (PhD): Mathematics, KU Leuven (Belgium), 2019-2023
+  * Thesis title: [Linear theory of plasma waves and instabilities: From ion-electron to MHD descriptions](http://jordidj.github.io/files/thesis.pdf)
+  * Supervisor: Prof. Dr. Rony Keppens
+* Master of Science (MSc): Physics (Theoretical physics), KU Leuven (Belgium), 2017-2019
+  * Thesis title: Instantons and holography
+  * Cum Laude
+* Bachelor of Science (BSc): Physics, KU Leuven (Belgium), 2014-2017
+  * Thesis title: The EmDrive
+  * Cum Laude
+* Bachelor of Science (BSc): Mathematics, KU Leuven (Belgium), 2014-2017
+  * Thesis title: Normal modes of magnetohydrodynamics
+  * Cum Laude
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Additional training
+* Science Communication and Outreach (2020, KU Leuven B-KUL-G0R44A)
+* Waves and Instabilities (2020, KU Leuven B-KUL-G0B26A)
+* Teaching assistant training (2019, KU Leuven)
+* Central lecture Scientific Integrity (18 November 2019, KU Leuven)
+* Fortran for programmers (14 October 2019, KU Leuven)
+* HPC introduction (8 October 2019, KU Leuven)
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Volunteer experience
+* Internship at [RiskConcile](https://www.riskconcile.com)
+  * September 2018, Leuven, Belgium
+  * Development of financial applications in Python
+* Science communication for the youth group Oberon of public observatory [Urania](https://www.urania.be)
+  * 2012-2021, Hove, Belgium
+  * Communication of scientific history and advancements to youths aged 12 to 25
