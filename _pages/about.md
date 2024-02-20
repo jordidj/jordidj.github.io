@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-__Note.__ This website is still under construction, so please check back later for more information.
-{: .notice}
-
 Welcome to my personal page! My name is Jordi and I am currently working as a research fellow in theoretical plasma physics in the Solar and Magnetospheric Theory Group at the University of St Andrews (UK). Here, the main focus of my work is on the process of 3D magnetic reconnection.
 
 During my PhD at KU Leuven (Belgium), I developed a wide range of interests and skills.
