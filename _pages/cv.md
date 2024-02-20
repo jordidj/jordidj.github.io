@@ -36,6 +36,11 @@ redirect_from:
 * Fortran for programmers (14 October 2019, KU Leuven)
 * HPC introduction (8 October 2019, KU Leuven)
 
+## Skills
+* Languages: Dutch, English, French (basic)
+* Programming languages: Python, Fortran, Bash, R, Mathematica, MatLab
+* Soft skills: science communication
+
 ## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
