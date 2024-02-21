@@ -210,6 +210,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  tutorials:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
