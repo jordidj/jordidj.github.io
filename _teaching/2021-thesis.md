@@ -8,4 +8,6 @@ date: 2021-09-21
 location: "Leuven, Belgium"
 ---
 
-Guiding of master thesis research from 2021 to 2023.
+Mentor role in master thesis research:
+* Akshara Parul, _Magnetohydrodynamic spectroscopy (for cylindrical flux tubes in the solar atmosphere using Legolas)_, KU Leuven, 2022 (supervisor: Rony Keppens)
+* Joeri De Vadder, _Wave modes in two-fluid plasmas: collisional effects_, KU Leuven, 2023 (supervisor: Rony Keppens)
