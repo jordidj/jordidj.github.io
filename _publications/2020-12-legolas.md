@@ -2,7 +2,7 @@
 title: "Legolas: a modern tool for magnetohydrodynamic spectroscopy"
 collection: publications
 permalink: /publication/2020-12-legolas
-excerpt: "Preprint - [arXiv:2010.14148](https://arxiv.org/abs/2010.14148)"
+excerpt: "Preprint - [arXiv:2010.14148](https://arxiv.org/abs/2010.14148). Erratum - [doi:10.3847/1538-4365/ac02c1](http://doi.org/10.3847/1538-4365/ac02c1)"
 date: 2020-12-01
 venue: 'The Astrophysical Journal Supplement Series'
 paperurl: 'http://doi.org/10.3847/1538-4365/abc5c4'
