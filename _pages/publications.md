@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Click a title to see the abstract.
+Click a title to see the abstract and errata.
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
