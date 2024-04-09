@@ -11,5 +11,5 @@ location: "Leiden, the Netherlands"
 
 Joint talk & workshop with Niels Claes at the Magnetohydrodynamics: Physics for the 21st Century workshop, Lorentz center, Leiden, the Netherlands.
 
-Abstract not available, sorry.
+No abstract available.
 {: .notice}
