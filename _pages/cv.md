@@ -12,7 +12,7 @@ redirect_from:
 ## Employment
 * October 2023 - March 2025: Research fellow
   * Solar and Magnetospheric Theory Group, University of St Andrews (UK)
-  * Topic: magnetic reconnection
+  * Topic: oscillations and instabilities of MHD equilibria, magnetic reconnection
 
 ## Education
 * Doctoral Programme in Science (PhD): Mathematics, KU Leuven (Belgium), 2019-2023
@@ -27,6 +27,13 @@ redirect_from:
 * Bachelor of Science (BSc): Mathematics, KU Leuven (Belgium), 2014-2017
   * Thesis title: Normal modes of magnetohydrodynamics
   * Cum Laude
+
+## Research stays
+* Stellarator Theory group, Max-Planck-Institut für Plasmaphysik, Greifswald, Germany. 3-22 October 2022.
+
+## Organisational efforts
+* CmPA social event (teambuilding), 1 June 2022.
+* The SMTG Code Forum (institutional mini-conference), 18 April 2024.
   
 ## Additional training
 * Science Communication and Outreach (2020, KU Leuven B-KUL-G0R44A)
@@ -55,7 +62,7 @@ redirect_from:
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
+
 ## Volunteer experience
 * Internship at [RiskConcile](https://www.riskconcile.com)
   * September 2018, Leuven, Belgium
