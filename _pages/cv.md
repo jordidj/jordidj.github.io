@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Employment
-* October 2023 - March 2025: Research fellow
+* October 2023 - present: Research fellow
   * Solar and Magnetospheric Theory Group, University of St Andrews (UK)
   * Topic: oscillations and instabilities of MHD equilibria, magnetic reconnection
 

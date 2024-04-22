@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal page! My name is Jordi and I am currently working as a research fellow in theoretical plasma physics in the Solar and Magnetospheric Theory Group at the University of St Andrews (UK). Here, the main focus of my work is on the process of 3D magnetic reconnection.
+Welcome to my personal page! My name is Jordi and I am currently working as a research fellow in theoretical plasma physics in the Solar and Magnetospheric Theory Group at the University of St Andrews (UK). Here, the main focus of my work is on oscillations and instabilities of magnetohydrodynamic equilibria and the process of 3D magnetic reconnection.
 
 During my PhD at KU Leuven (Belgium), I developed a wide range of interests and skills.
 * My first venture into plasma physics consisted of the analysis of the ideal, warm, two-fluid ion-electron dispersion relation. This revealed an intricate web of crossings and avoided crossings between the six wave types in the frequency-wavenumber diagram, which led to a theoretical investigation of oblique whistler waves. Current efforts are focused on the extension of the results to a collisional plasma.
@@ -18,4 +18,4 @@ During my PhD at KU Leuven (Belgium), I developed a wide range of interests and 
 If any of these topics piqued your interest, please check out my publications.
 
 ---
-_This website was last updated on 19 April 2024._
+_This website was last updated on 22 April 2024._
