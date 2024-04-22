@@ -12,3 +12,5 @@ citation: 'De Jonghe, J. and Kuczyński, M. D. (2024). &quot;Neural network clas
 __Abstract.__ A neural network is employed to address a non-binary classification problem of plasma instabilities in astrophysical jets, calculated with the Legolas code. The trained models exhibit reliable performance in the identification of the two instability types supported by these jets. We also discuss the generation of artificial data and refinement of predictions in general eigenfunction classification problems.
 
 Preprint - [arXiv:2312.08490](https://arxiv.org/abs/2312.08490)
+
+Data set - [doi:10.34740/KAGGLE/DS/2750846](https://doi.org/10.34740/KAGGLE/DS/2750846)
