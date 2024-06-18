@@ -28,13 +28,17 @@ redirect_from:
   * Thesis title: Normal modes of magnetohydrodynamics
   * Cum Laude
 
+## Fellowships
+* FWO junior postdoctoral fellowship 1225625N-7028 "Waves and tearing instabilities in a multifluid plasma model: a spectroscopic analysis from the collisionless to the resistive regime", November 2024 - October 2027.
+
 ## Research stays
 * Stellarator Theory group, Max-Planck-Institut für Plasmaphysik, Greifswald, Germany. 3-22 October 2022.
 
 ## Organisational efforts
-* CmPA social event (teambuilding), 1 June 2022.
-* The SMTG Code Forum (institutional mini-conference), 18 April 2024.
-  
+* CmPA social event (teambuilding), 1 June 2022, Leuven, Belgium.
+* The SMTG Code Forum (institutional mini-conference), 18 April 2024, St Andrews, UK.
+* "Modern methods and numerical approaches for analysing the Sun's dynamic atmosphere" session at the National Astronomy Meeting (NAM) 2024, 17 July 2024, Hull, UK.
+
 ## Additional training
 * Science Communication and Outreach (2020, KU Leuven B-KUL-G0R44A)
 * Waves and Instabilities (2020, KU Leuven B-KUL-G0B26A)
