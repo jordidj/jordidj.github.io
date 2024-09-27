@@ -7,6 +7,8 @@ author_profile: true
 
 Click a title to see the abstract and errata.
 
+**Collaborators:** Claes, Niels; De Vadder, Joeri; Keppens, Rony; Kuczyński, Michał D.
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}

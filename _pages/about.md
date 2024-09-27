@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jordi and I am currently working as a research fellow in theoretical (space) plasma physics in the Solar and Magnetospheric Theory Group at the University of St Andrews (UK). Here, the main focus of my work is on oscillations and instabilities of magnetohydrodynamic equilibria and the process of magnetic reconnection.
+After finishing my Phd at the Centre for mathematical Plasma Astrophysics (KU Leuven, Belgium) on the topic of waves and instabilities from MHD to multifluid plasma models, I am currently working as a research fellow in theoretical (space) plasma physics in the Solar and Magnetospheric Theory Group at the University of St Andrews (UK). Here, the main focus of my work is on oscillations and instabilities of magnetohydrodynamic equilibria and the process of magnetic reconnection.
 
 My research interests include, but are not limited to
 * multifluid plasma descriptions. In an ideal, two-fluid ion-electron plasma, my work revealed an intricate web of crossings and avoided crossings between the six wave types in the frequency-wavenumber diagram, which led to a theoretical investigation of oblique whistler waves. In our most recent work, these results were extended to a collisional plasma.
@@ -18,4 +18,4 @@ My research interests include, but are not limited to
 If any of these topics piqued your interest, please check out my publications or reach out to me.
 
 ---
-_This website was last updated on 23 July 2024._
+_This website was last updated on 27 September 2024._
