@@ -24,11 +24,11 @@ author:
   avatar           : "headshot.jpg"
   name             : "Jordi De Jonghe"
   pronouns         : he/him  
-  bio              : "Theoretical (space) plasma physicist at the University of St Andrews. PhD obtained at KU Leuven."
-  location         : "St Andrews, United Kingdom"
-  employer         : "University of St Andrews"
+  bio              : "FWO junior postdoctoral fellow in theoretical (space) plasma physics at KU Leuven."
+  location         : "Leuven, Belgium"
+  employer         : "FWO @ KU Leuven"
   uri              : # URL
-  email            : "jkmdj1@st-andrews.ac.uk" 
+  email            : "jordi.dejonghe@kuleuven.be"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # "jordi_dejonghe"  # Replace this with your X / Twitter handle
+  twitter          : # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

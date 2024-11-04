@@ -10,26 +10,29 @@ redirect_from:
 {% include base_path %}
 
 ## Employment
-* October 2023 - present: Research fellow
-  * Solar and Magnetospheric Theory Group, University of St Andrews (United Kingdom)
+* November 2024 - present: FWO junior postdoctoral fellow
+  * Centre for mathematical Plasma Astrophysics, KU Leuven, Belgium
+  * Topic: multifluid spectroscopy and its application to current sheet tearing
+* October 2023 - October 2024: Research fellow
+  * Solar and Magnetospheric Theory Group, University of St Andrews, United Kingdom
   * Topic: oscillations and instabilities of MHD equilibria, magnetic reconnection
 
 ## Education
-* Doctoral Programme in Science (PhD): Mathematics, KU Leuven (Belgium), 2019-2023
+* Doctoral Programme in Science (PhD): Mathematics, Centre for mathematical Plasma Astrophysics, KU Leuven, Belgium, 2019-2023
   * Thesis title: [Linear theory of plasma waves and instabilities: From ion-electron to MHD descriptions](http://jordidj.github.io/files/thesis.pdf)
   * Supervisor: Prof. Dr. Rony Keppens
-* Master of Science (MSc): Physics (Theoretical physics), KU Leuven (Belgium), 2017-2019
+* Master of Science (MSc): Physics (Theoretical physics), KU Leuven, Belgium, 2017-2019
   * Thesis title: Instantons and holography
   * Cum Laude
-* Bachelor of Science (BSc): Physics, KU Leuven (Belgium), 2014-2017
+* Bachelor of Science (BSc): Physics, KU Leuven, Belgium, 2014-2017
   * Thesis title: The EmDrive
   * Cum Laude
-* Bachelor of Science (BSc): Mathematics, KU Leuven (Belgium), 2014-2017
+* Bachelor of Science (BSc): Mathematics, KU Leuven, Belgium, 2014-2017
   * Thesis title: Normal modes of magnetohydrodynamics
   * Cum Laude
 
 ## Fellowships
-* FWO junior postdoctoral fellowship 1225625N-7028 "Waves and tearing instabilities in a multifluid plasma model: a spectroscopic analysis from the collisionless to the resistive regime"
+* FWO junior postdoctoral fellowship 1225625N "Waves and tearing instabilities in a multifluid plasma model: a spectroscopic analysis from the collisionless to the resistive regime"
 <!-- , November 2024 - October 2027. -->
 
 ## Research stays
@@ -39,6 +42,7 @@ redirect_from:
 * CmPA social event (teambuilding), 1 June 2022, Leuven, Belgium.
 * The SMTG Code Forum (institutional mini-conference), 18 April 2024, St Andrews, United Kingdom.
 * "Modern methods and numerical approaches for analysing the Sun's dynamic atmosphere" session at the National Astronomy Meeting (NAM) 2024, 17 July 2024, Kingston upon Hull, United Kingdom.
+* CmPA seminar series, November 2024 - present, Centre for mathematical Plasma Astrophysics, KU Leuven, Belgium.
 
 ## Additional training
 * Science Communication and Outreach (2020, KU Leuven B-KUL-G0R44A)
