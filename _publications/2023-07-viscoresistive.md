@@ -5,7 +5,7 @@ permalink: /publication/2023-07-06
 excerpt: ""
 date: 2023-07-06
 venue: '49th EPS Conference on Plasma Physics'
-paperurl: 'http://jordidj.github.io/files/eps2023.pdf'
+paperurl: 'https://lac913.epfl.ch/epsppd2/2023/html/Orals/O4_201_DeJonghe.pdf'
 citation: 'De Jonghe, J. and Keppens, R. (2023). &quot;Tearing growth rate of a viscoresistive Harris sheet subject to flow&quot; in <i>49th EPS Conference on Plasma Physics</i>. O4.201.'
 ---
 
