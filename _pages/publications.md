@@ -5,9 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-Click a title to see the abstract and errata.
+## List of collaborators
+* Claes, Niels
+* De Vadder, Joeri
+* Keppens, Rony
+* Kuczyński, Michał D.
+* Sen, Samrat
 
-**Collaborators:** Claes, Niels; De Vadder, Joeri; Keppens, Rony; Kuczyński, Michał D.
+## List of publications
+Click a title to see the abstract and any errata.
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
