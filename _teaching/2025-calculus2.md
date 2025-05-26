@@ -8,4 +8,4 @@ date: 2025-02-10
 location: "Leuven, Belgium"
 ---
 
-Lectures for Calculus II (B-KUL-G0Y40A) in 2025.
+Lectures of Calculus II (B-KUL-G0Y40A) in 2025.
