@@ -5,9 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## List of collaborators
+## Alphabetic list of co-authors
+* Brughmans, Nicolas
 * Claes, Niels
 * De Vadder, Joeri
+* Goedbloed, Hans
+* Kelly, Adrian
 * Keppens, Rony
 * Kuczyński, Michał D.
 * Sen, Samrat
