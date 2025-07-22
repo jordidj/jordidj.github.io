@@ -1,7 +1,7 @@
 ---
 title: "MHD simulation of tearing-thermal instability"
 collection: talks
-type: "Talk"
+type: "Contributed talk"
 permalink: /talks/2025-ytworkshop
 excerpt: ""
 venue: "Higgs Centre for Theoretical Physics, University of Edinburgh"
