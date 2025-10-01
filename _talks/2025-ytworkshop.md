@@ -4,7 +4,7 @@ collection: talks
 type: "Contributed talk"
 permalink: /talks/2025-ytworkshop
 excerpt: ""
-venue: "Higgs Centre for Theoretical Physics, University of Edinburgh"
+venue: "yt Workshop"
 date: 2025-07-16
 location: "Edinburgh, United Kingdom"
 ---
