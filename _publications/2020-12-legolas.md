@@ -13,4 +13,6 @@ __Abstract.__ Magnetohydrodynamic (MHD) spectroscopy is central to many astrophy
 
 Preprint - [arXiv:2010.14148](https://arxiv.org/abs/2010.14148)
 
-__Erratum.__ Claes, N., De Jonghe, J. and Keppens, R. (2021). &quot;Erratum: "Legolas: a modern tool for magnetohydrodynamic spectroscopy." (2020, ApJS, 251, 25)&quot; <i>Astrophys. J. Suppl. Ser</i>. 254(2), 45. [doi:10.3847/1538-4365/ac02c1](http://doi.org/10.3847/1538-4365/ac02c1)
+__Errata.__
+- Claes, N., De Jonghe, J. and Keppens, R. (2021). &quot;Erratum: "Legolas: a modern tool for magnetohydrodynamic spectroscopy." (2020, ApJS, 251, 25)&quot; <i>Astrophys. J. Suppl. Ser</i>. 254(2), 45. [doi:10.3847/1538-4365/ac02c1](http://doi.org/10.3847/1538-4365/ac02c1)
+- In Eqs. (28) and (29), B_c is missing a square in the alpha-expressions.
