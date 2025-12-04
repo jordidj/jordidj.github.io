@@ -39,10 +39,10 @@ redirect_from:
 * Stellarator Theory group, Max-Planck-Institut für Plasmaphysik, Greifswald, Germany. 3-22 October 2022.
 
 ## Organisational efforts
-* CmPA social event (teambuilding), 1 June 2022, Leuven, Belgium.
-* The SMTG Code Forum (institutional mini-conference), 18 April 2024, St Andrews, United Kingdom.
-* "Modern methods and numerical approaches for analysing the Sun's dynamic atmosphere" session at the National Astronomy Meeting (NAM) 2024, 17 July 2024, Kingston upon Hull, United Kingdom.
 * CmPA seminar series, November 2024 - present, Centre for mathematical Plasma Astrophysics, KU Leuven, Belgium.
+* "Modern methods and numerical approaches for analysing the Sun's dynamic atmosphere" session at the National Astronomy Meeting (NAM) 2024, 17 July 2024, Kingston upon Hull, United Kingdom.
+* The SMTG Code Forum (institutional mini-conference), 18 April 2024, St Andrews, United Kingdom.
+* CmPA social event (teambuilding), 1 June 2022, Leuven, Belgium.
 
 ## Additional training
 * Science Communication and Outreach (2020, KU Leuven B-KUL-G0R44A)
@@ -72,10 +72,10 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-## Volunteer experience
+## Extracurricular experience
 * Internship at [RiskConcile](https://www.riskconcile.com)
   * September 2018, Leuven, Belgium
   * Development of financial applications in Python
 * Science communication for the youth group Oberon of public observatory [Urania](https://www.urania.be)
   * 2012-2021, Hove, Belgium
-  * Communication of scientific history and advancements to youths aged 12 to 25
+  * Science communication to youths aged 12 to 25
