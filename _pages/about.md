@@ -19,4 +19,4 @@ Main research interests:
 If any of these topics piqued your interest, please check out my publications or reach out to me.
 
 ---
-_This website was last updated on 9 December 2025._
+_This website was last updated on 10 December 2025._

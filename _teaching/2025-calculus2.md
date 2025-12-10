@@ -1,5 +1,5 @@
 ---
-title: "Calculus II: lectures"
+title: "Calculus II: course coordinator and lecturer"
 collection: teaching
 type: "Bachelor in Mathematics/Physics (year 1)"
 permalink: /teaching/2025-calculus2
