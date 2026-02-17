@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Working as an FWO junior postdoctoral reseacrher in theoretical (space) plasma physics at the Centre for mathematical Plasma Astrophysics at KU Leuven (Belgium), the main focus of my work is on the application of spectroscopic methods for magnetohydrodynamic and multifluid plasma models to the process of magnetic reconnection.
+Working as an FWO junior postdoctoral researcher in theoretical (space) plasma physics at the Centre for mathematical Plasma Astrophysics at KU Leuven (Belgium), the main focus of my work is on the application of spectroscopic methods for magnetohydrodynamic and multifluid plasma models to the process of magnetic reconnection.
 
 Main research interests:
 * **Multifluid plasma descriptions.** In an ideal, two-fluid ion-electron plasma, my work revealed an intricate web of crossings and avoided crossings between the six wave types in the frequency-wavenumber diagram, which led to a theoretical investigation of oblique whistler waves. In our most recent work on the topic, these results were extended to a collisional plasma.
@@ -19,4 +19,4 @@ Main research interests:
 If any of these topics piqued your interest, please check out my publications or reach out to me.
 
 ---
-_This website was last updated on 10 December 2025._
+_This website was last updated on 12 February 2026._
