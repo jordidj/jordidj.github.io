@@ -13,6 +13,7 @@ author_profile: true
 * Kelly, Adrian
 * Keppens, Rony
 * Kuczyński, Michał D.
+* Russell, Alexander J. B.
 * Sen, Samrat
 
 ## List of publications
