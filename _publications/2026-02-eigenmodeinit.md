@@ -2,7 +2,7 @@
 title: "Eigenmode initialisation of 2D (magneto)hydrodynamic simulations"
 collection: publications
 permalink: /publication/2026-02-eigenmodeinit
-excerpt: ""
+excerpt: "Preprint - [arXiv:2602.23849](https://arxiv.org/abs/2602.23849)"
 date: 2026-02-22
 venue: "Astronomy & Astrophysics"
 paperurl: "https://doi.org/10.1051/0004-6361/202452721"
@@ -15,4 +15,4 @@ _Methods._ Using the non-linear (magneto)hydrodynamic simulation code [MPI-AMRVA
 _Results._ By perturbing an unstable equilibrium with a superposition of linear eigenmodes that contains the most unstable mode, significantly less computation time is spent on the linear stage of the evolution compared to traditional perturbation methods. In the best case, the simulation time needed to reach the non-linear stage was reduced by an order of magnitude. The inclusion or omission of certain modes in the initial perturbation was observed to affect the non-linear evolution to various degrees.  
 _Conclusions._ The perturbation of equilibria with a superposition of linear eigenmodes that contains the most unstable mode allows simulations to reach a late-evolution stage faster, thus saving computation time. Additional eigenmodes can be included alongside the fastest growing mode to obtain further benefits, for example, to accelerate symmetry breaking in the non-linear stage, or to delay their effect on the non-linear evolution. Coupling spectroscopic codes with (magneto)hydrodynamic codes therefore offers significant advantages to the astrophysics community.
 
-<!-- Preprint - []() -->
+Preprint - [arXiv:2602.23849](https://arxiv.org/abs/2602.23849)
