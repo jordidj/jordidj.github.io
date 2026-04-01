@@ -21,7 +21,7 @@ repository               : "jordidj/jordidj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpeg"
+  avatar           : "headshot.jpg"
   name             : "Jordi De Jonghe"
   pronouns         : he/him  
   bio              : "FWO junior postdoctoral fellow in theoretical plasma astrophysics at the Centre for mathematical Plasma Astrophysics, KU Leuven."
