@@ -3,10 +3,10 @@ title: "Eigenmode initialisation of 2D (magneto)hydrodynamic simulations"
 collection: publications
 permalink: /publication/2026-02-eigenmodeinit
 excerpt: "Preprint - [arXiv:2602.23849](https://arxiv.org/abs/2602.23849)"
-date: 2026-02-22
+date: 2026-04-03
 venue: "Astronomy & Astrophysics"
 paperurl: "https://doi.org/10.1051/0004-6361/202452721"
-citation: "De Jonghe, J. and Russell, A. J. B. (2026). &quot;Eigenmode initialisation of 2D (magneto)hydrodynamic simulations.&quot; <i>Astron. Astrophys.</i> Accepted."
+citation: "De Jonghe, J. and Russell, A. J. B. (2026). &quot;Eigenmode initialisation of 2D (magneto)hydrodynamic simulations.&quot; <i>Astron. Astrophys.</i> 708, A138."
 ---
 
 __Abstract.__  
