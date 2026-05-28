@@ -6,7 +6,7 @@ excerpt: "Preprint - [arXiv:2604.24315](https://arxiv.org/abs/2604.24315)"
 date: 2026-04-28
 venue: "Astronomy & Astrophysics"
 paperurl: "https://doi.org/10.1051/0004-6361/202659934"
-citation: "Kelly, A., Keppens, R. and De Jonghe, J. (2026). &quot;Thermal instability in coronal loops: linking eigenvalue spectra to time-dependent evolution.&quot; <i>Astron. Astrophys.</i> Accepted."
+citation: "Kelly, A., Keppens, R. and De Jonghe, J. (2026). &quot;Thermal instability in coronal loops: linking eigenvalue spectra to time-dependent evolution.&quot; <i>Astron. Astrophys.</i> 710, A19."
 ---
 
 __Abstract.__  
