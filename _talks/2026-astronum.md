@@ -4,7 +4,7 @@ collection: talks
 type: "Contributed talk"
 permalink: /talks/2026-astronum
 excerpt: ""
-venue: "WISA"
+venue: "ASTRONUM"
 date: 2026-07-01
 location: "Bordeaux, France"
 ---
