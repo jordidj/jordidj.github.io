@@ -32,11 +32,11 @@ redirect_from:
   * Cum Laude
 
 ## Fellowships
-* FWO junior postdoctoral fellowship 1225625N "Waves and tearing instabilities in a multifluid plasma model: a spectroscopic analysis from the collisionless to the resistive regime"
-<!-- , November 2024 - October 2027. -->
+* FWO junior postdoctoral fellowship 1225625N "Waves and tearing instabilities in a multifluid plasma model: a spectroscopic analysis from the collisionless to the resistive regime", November 2024 - October 2027.
 
 ## Research stays
 * Stellarator Theory group, Max-Planck-Institut für Plasmaphysik, Greifswald, Germany. 3-22 October 2022.
+* Instituto de Astronomía Teórica y Experimental, Universidad Nacional de Córdoba, Córdoba, Argentina. 29 July - 28 August 2026, under the Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges project DynaSun.
 
 ## Organisational efforts
 * CmPA seminar series, November 2024 - present, Centre for mathematical Plasma Astrophysics, KU Leuven, Belgium.
